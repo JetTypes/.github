@@ -15,7 +15,7 @@ Before contribuiting, please make sure to take a look at all of the rules of eac
 > - Free Programming Classes
 > - Our Libraries
 > - Who are we
-> - [Licenses](https://raw.githubusercontent.com/JetTypes/.github/main/assets/info/LICENSES.md)
+> - [Licenses](https://github.com/JetTypes/.github/blob/main/assets/info/LICENSES.md)
 > - Rules
 
 <sub> Official JetTypes Repository.
