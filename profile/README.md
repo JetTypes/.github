@@ -12,11 +12,18 @@ We are always accepting contributors in our projects, although we don't accept a
 
 ## Our Standards
 
-Before contribuiting, please make sure to take a look at all of the rules of each repository, following the mindset that each repository may have a different ruleset. Take a look at our **training-kit** to learn about:
-> - [Software](https://github.com/orgs/JetTypes/repositories)
-> - [Compilers](https://github.com/JetTypes/.github/blob/main/assets/info/COMPILERS.md)
-> - [Contributing](https://github.com/JetTypes/.github/blob/main/assets/info/CONTRIBUTE.md)
-> - Who are we
-> - [Licenses](https://github.com/JetTypes/.github/blob/main/assets/info/LICENSES.md)
+Before contribuiting, please make sure to take a look at all of the rules of each repository, following the mindset that each repository may have a different ruleset. Take a look at our **training-kit** to learn about lots of things.
+
+## Links
+> [!WARNING]
+> These links may be outdated
+> or not used anymore, please
+> always check the src.
+
+- [Software](https://github.com/orgs/JetTypes/repositories)
+- [Compilers](https://github.com/JetTypes/.github/blob/main/assets/info/COMPILERS.md)
+- [Contributing](https://github.com/JetTypes/.github/blob/main/assets/info/CONTRIBUTE.md)
+- Who are we
+- [Licenses](https://github.com/JetTypes/.github/blob/main/assets/info/LICENSES.md)
 
 <sub> Official JetTypes Repository.
