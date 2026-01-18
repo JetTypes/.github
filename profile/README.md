@@ -30,4 +30,4 @@ Looking to contribute? Take a look at [Contributing]. 💗
  - [Compilers]
  - [Contributing]
  - [Who are we]
- - - [Licenses]
+ - [Licenses]
