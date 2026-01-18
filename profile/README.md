@@ -16,7 +16,7 @@ We're trying to build a developer community! 🚀
 
 ## Join us
 
-We are always accepting contributors in our projects, although we don't accept all pull-requests, nor should you expect us to do so. To join us please see [Contributing]
+We are always accepting contributors to our projects, although we don't accept all pull requests, nor should you expect us to do so. To join us, please see Contributing.
 
 ## Our Standards
 
