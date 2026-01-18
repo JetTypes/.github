@@ -1,3 +1,10 @@
+[logo]: https://raw.githubusercontent.com/JetTypes/.github/main/assets/logos/file.svg
+[Contributing]: https://github.com/JetTypes/.github/blob/main/assets/info/CONTRIBUTE.md
+[Software]: https://github.com/orgs/JetTypes/repositories
+[Compilers]: https://github.com/JetTypes/.github/blob/main/assets/info/COMPILERS.md
+[Licenses]: https://github.com/JetTypes/.github/blob/main/assets/info/LICENSES.md
+
+
 <sub> ![logo](https://raw.githubusercontent.com/JetTypes/.github/main/assets/logos/file.svg)
 
 # **JetTypes**
@@ -20,10 +27,10 @@ Before contribuiting, please make sure to take a look at all of the rules of eac
 > These links may be outdated
 > or not used anymore, we recommend you to always check other sources first.
 
-- [Software](https://github.com/orgs/JetTypes/repositories)
-- [Compilers](https://github.com/JetTypes/.github/blob/main/assets/info/COMPILERS.md)
-- [Contributing](https://github.com/JetTypes/.github/blob/main/assets/info/CONTRIBUTE.md)
+- [Software]
+- [Compilers]
+- [Contributing]
 - Who are we
-- [Licenses](https://github.com/JetTypes/.github/blob/main/assets/info/LICENSES.md)
+- [Licenses]
 
 <sub> Official JetTypes Repository.
