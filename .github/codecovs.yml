@@ -6,6 +6,8 @@ coverage:
     patch:
       default: yes
 ignore:
+  - profile/*
+  - *.txt
   - build/*
   - *.bat
   - *.sh
