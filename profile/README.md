@@ -9,7 +9,7 @@
 <!-- Logo -->
 
 # **JetTypes**
-![GitHub stars](https://img.shields.io/github/org-stars/JetTypes.svg)
+![Active](https://img.shields.io/badge/status-active-brightgreen.svg)
 
 Yes, we are a Github organisation. We've been in Github for 2 years! Before, we were at GitLabs. 
 
