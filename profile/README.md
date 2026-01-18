@@ -6,16 +6,17 @@
 [Who are we]: https://github.com/JetTypes/.github/blob/main/assets/info/INFO.md
 
 <sub> ![logo][logo] </sub>
+<!-- Logo -->
 
 # **JetTypes**
 
-Yes, we are a github organisation. Our goal is to make libraries, utilities, and more within Github. The JetTypes project was made on 2021, although this organization was created January 9, 2026.
+Yes, we are a github organisation. Our goal is to make libraries, utilities, and more within the Github Community. The JetTypes project was made on 2021, although this organization was created January 9, 2026.
 
 We're trying to build a developer community! 🚀
 
 ## Join us
 
-We are always accepting contributors in our projects, although we don't accept all pull-requests neither should you expect us to do so. To join us please see [Contributing]
+We are always accepting contributors in our projects, although we don't accept all pull-requests, nor should you expect us to do so. To join us please see [Contributing]
 
 ## Our Standards
 
@@ -24,8 +25,7 @@ Before contribuiting, please make sure to take a look at all of the rules of eac
 ## Links
 
 > [!WARNING]
-> These links may be outdated
-> or not used anymore, please check the official links pages first.
+> These links may be outdated or > no longer in use. Please check > the official links pages first.
 
 - [Software]
 - [Compilers]
