@@ -5,7 +5,7 @@
 [Who are we]: https://github.com/JetTypes/.github/blob/main/assets/info/INFO.md
 
 <div align="center">
-  <img src="/assets/logos/file.svg" alt="Logo" width="700" height="400"/>
+  <img src="/assets/logos/file.svg" alt="Logo" width="400" height="300"/>
 </div>
 <!-- Logo -->
 
@@ -24,8 +24,8 @@ Before contributing, please make sure to take a look at all of the rules of each
 Looking to contribute? Take a look at [Contributing]. 💗
 
 ## Links
- - [Software] | Our Repositories
- - [Compilers] | What compilers we use
- - [Contributing] | Contributing
- - [Who are we] | Who are we
- - [Licenses] | Licenses we use.
+ - [Software]
+ - [Compilers]
+ - [Contributing]
+ - [Who are we]
+ - [Licenses]
