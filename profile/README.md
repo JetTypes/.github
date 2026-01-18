@@ -25,10 +25,10 @@ Looking to contribute? Take a look at [Contributing]. 💗
 ## Links
 
 > [!IMPORTANT]
-> These links above may be outdated or no longer in use. Check the official links pages first.
-
-- [Software]
-- [Compilers]
-- [Contributing]
-- [Who are we]
-- [Licenses]
+> These links above may be outdated, deleted or no longer in use. Check the official links pages first.
+>
+> - [Software]
+< - [Compilers]
+> - [Contributing]
+> - [Who are we]
+> - [Licenses]
