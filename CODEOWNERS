@@ -1,5 +1,6 @@
 /assets/ @JetTypes/Contributor
 /README.md @JetTypes/Contributor
 **/src/ @JetTypes/Contributor
-**/src/ @liamdar
+**/build/ @JetTypes/Contributor
+**/pom.xml @JetTypes/Contributor
 * @liamdar
