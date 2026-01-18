@@ -5,11 +5,13 @@
 [Licenses]: https://github.com/JetTypes/.github/blob/main/assets/info/LICENSES.md
 [Who are we]: https://github.com/JetTypes/.github/blob/main/assets/info/INFO.md
 
-<sub> ![logo][logo] </sub>
+<p align="center">
+  <p align="center">
+	<img width="124" height="124" src="/assets/logos/file.svg" alt="Logo">
+  </p>
 <!-- Logo -->
 
 # **JetTypes**
-![Active](https://img.shields.io/badge/Status-active-brightgreen.svg) ![Repositories](https://img.shields.io/badge/Repositories-2-blue.svg) ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 Yes, we are a Github organisation. We've been in Github for 2 years! Before, we were at GitLabs. 
 
