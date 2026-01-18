@@ -1,4 +1,4 @@
-![logo](https://www.github.com/JetTypes/.github/assets/logos/file.svg)
+![logo](https://www.github.com/JetTypes/.github/assets/logo/file.svg)
 
 # **JetTypes**
 Yes, we are a github.com organization. Our goal is to make libraries, utilies, and others within Github. 
