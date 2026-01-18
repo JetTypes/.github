@@ -8,9 +8,9 @@
 <sub> ![logo][logo] </sub>
 <!-- Logo -->
 
-# **🚀 JetTypes**
+# **JetTypes**
 
-Yes, we are a github organisation. We've been in Github for 2 years! Before, we were at GitLabs. 👾
+Yes, we are a Github organisation. We've been in Github for 2 years! Before, we were at GitLabs. 
 
 We are always accepting contributors to our projects, although we don't accept all pull requests, nor should you expect us to do so. To join us, please see [Contributing]
 
@@ -19,6 +19,8 @@ We're trying to build a developer community! 🚀
 ## 🪐 Our Standards
 
 Before contributing, please make sure to take a look at all of the rules of each repository, following the mindset that each repository may have different rules. You may like to take a look at our **training-kit** for more details.
+
+Looking to contribute? Look at [Contributing]. ♥️
 
 ## Links
 
