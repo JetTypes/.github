@@ -5,7 +5,7 @@
 [Licenses]: https://github.com/JetTypes/.github/blob/main/assets/info/LICENSES.md
 [Who are we]: https://github.com/JetTypes/.github/blob/main/assets/info/INFO.md
 
-<sub> ![logo](logo) </sub>
+<sub> ![logo][logo] </sub>
 
 # **JetTypes**
 
