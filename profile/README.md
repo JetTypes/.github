@@ -5,7 +5,9 @@
 [Licenses]: https://github.com/JetTypes/.github/blob/main/assets/info/LICENSES.md
 [Who are we]: https://github.com/JetTypes/.github/blob/main/assets/info/INFO.md
 
-![logo][logo]
+<div align="center">
+  <img src="/assets/logos/file.svg" alt="Logo" width="400" height="300"/>
+</div>
 <!-- Logo -->
 
 # **JetTypes**
