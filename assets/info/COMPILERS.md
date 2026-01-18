@@ -7,10 +7,10 @@ When using our repositories, take in mind most of them are configured to use Jav
 For compiling, use the respective commands for each Software.
 
 > **Maven**
-  ```
-   mvn clean package
-  ```
+>  ```
+>  mvn clean package
+>  ```
 > **Gradle**
-  ```
-   gradle build
-  ```
+>  ```
+>   gradle build
+>  ```
