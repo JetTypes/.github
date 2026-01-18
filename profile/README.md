@@ -16,7 +16,7 @@ We are always accepting contributors to our projects, although we don't accept a
 
 We're trying to build a developer community! 🚀
 
-## ❗️ Our Standards
+## 🪐 Our Standards
 
 Before contributing, please make sure to take a look at all of the rules of each repository, following the mindset that each repository may have different rules. You may like to take a look at our **training-kit** for more details.
 
