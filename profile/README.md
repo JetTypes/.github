@@ -20,7 +20,7 @@ We're trying to build a developer community! 🚀
 
 Before contributing, please make sure to take a look at all of the rules of each repository, following the mindset that each repository may have different rules. You may like to take a look at our **training-kit** for more details.
 
-Looking to contribute? Look at [Contributing]. ♥️
+Looking to contribute? Take a look at [Contributing]. 💗
 
 ## Links
 
