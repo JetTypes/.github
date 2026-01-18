@@ -10,10 +10,8 @@
 </div>
 <!-- Logo -->
 
-<div align="center">
-  <h1>JetTypes Community Github</h1>
-</div>
-
+# **JetTypes Community Github**
+    
 Yes, we are a Github organisation. We've been in Github for 2 years! Before, we were at GitLabs. 
 
 We are always accepting contributors to our projects, although we don't accept all pull requests, nor should you expect us to do so. To join us, please see [Contributing]
@@ -28,11 +26,8 @@ Looking to contribute? Take a look at [Contributing]. 💗
 
 ## Links
 
-> [!IMPORTANT]
-> These links above may be outdated, deleted or no longer in use. Check the official links pages first.
->
-> - [Software]
-> - [Compilers]
-> - [Contributing]
-> - [Who are we]
-> - [Licenses]
+ - [Software]
+ - [Compilers]
+ - [Contributing]
+ - [Who are we]
+ - - [Licenses]
