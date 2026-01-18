@@ -5,7 +5,6 @@
 [Licenses]: https://github.com/JetTypes/.github/blob/main/assets/info/LICENSES.md
 [Who are we]: https://github.com/JetTypes/.github/blob/main/assets/info/INFO.md
 
-
 <sub> ![logo](https://raw.githubusercontent.com/JetTypes/.github/main/assets/logos/file.svg) </sub>
 
 # **JetTypes**
@@ -14,11 +13,11 @@ Yes, we are a github.com organization. Our goal is to make libraries, utilities,
 
 We're trying to build a developer community! 🚀
 
-## 🛠 Join us
+## Join us
 
-We are always accepting contributors in our projects, although we don't accept all requests neither should you expect us to do so. To join us please see [Contributing](https://github.com/JetTypes/.github/blob/main/assets/info/CONTRIBUTE.md).
+We are always accepting contributors in our projects, although we don't accept all pull-requests neither should you expect us to do so. To join us please see [Contributing](https://github.com/JetTypes/.github/blob/main/assets/info/CONTRIBUTE.md).
 
-## ⭐️ Our Standards
+## Our Standards
 
 Before contribuiting, please make sure to take a look at all of the rules of each repository, following the mindset that each repository may have a different ruleset. Take a look at our **training-kit** to learn about lots of things.
 
@@ -34,4 +33,4 @@ Before contribuiting, please make sure to take a look at all of the rules of eac
 - [Who are we]
 - [Licenses]
 
-<sub> Official JetTypes Repository. </sub>
+<sub> Official JetTypes Organization. </sub>
