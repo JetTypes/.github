@@ -6,4 +6,4 @@ programming, creating software, languages.
 
 > [!TIP]
 > We are a Community
-> Project.
+> Independant project, which means we aren't under the ownership of any company, group or Family.
