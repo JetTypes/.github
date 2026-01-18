@@ -18,6 +18,5 @@ Before contribuiting, please make sure to take a look at all of the rules of eac
 > - [Contributing](https://github.com/JetTypes/.github/blob/main/assets/info/CONTRIBUTE.md)
 > - Who are we
 > - [Licenses](https://github.com/JetTypes/.github/blob/main/assets/info/LICENSES.md)
-> - Rules
 
 <sub> Official JetTypes Repository.
