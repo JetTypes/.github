@@ -1,6 +1,4 @@
-/assets/ @JetTypes/Contributor
-/README.md @JetTypes/Contributor
-**/src/ @JetTypes/Contributor
-**/build/ @JetTypes/Contributor
-**/pom.xml @JetTypes/Contributor
+# For Anything related to src;
 * @liamdar
+# anything related to wikis, docs
+*.md @JetTypes/Contributor
