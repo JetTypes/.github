@@ -10,12 +10,12 @@ We are always accepting contributors in our projects, althrough we don't accept 
 
 ## Our Standards
 Before contribuiting, please make sure to take a look at all of the rules of each repository, following the mindset that each repository may have a different ruleset. Take a look at our **training-kit** to learn about:
- - Software
- - Compilers we use
- - Free Programming Classes
- - Our Libraries
- - Who are we
- - Licenses
- - Rules
+> - Software
+> - Compilers we use
+> - Free Programming Classes
+> - Our Libraries
+> - Who are we
+> - Licenses
+> - Rules
 
-<sub> > Official JetNull Repository.
+<sub> Official JetTypes Repository.
