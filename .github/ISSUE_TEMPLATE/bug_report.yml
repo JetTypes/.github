@@ -1,40 +1,48 @@
-name: Bug Report
-description: Use this template to report bugs in your project
+name: Issue
+description: Use this template to report a issue.
 labels:
-  - "Type: Bug"
+  - "Bug"
 body:
   - type: markdown
     attributes:
       value: |-
-        Thank you for reporting a bug! Please fill out the template below carefully.
+        Thanks for reporting a Issue! Please fill the formulary below
+        to create the issue and wait for a developer or Contributor to
+        assist you. The time of this process is usually 72-120 hours.
 
   - type: checkboxes
     attributes:
       label: Confirmation
-      description: Please check before submitting
+      description: Check before submitting.
       options:
-        - label: I checked for existing issues
+        - label: "I'm aware that theres not already a open issue for this bug."
           required: true
-        - label: I’m using the latest version
+        - label: "I'm using the latest release"
+          required: false
+        - label: "I'm aware that this is a issue caused by us and not a external project."
+          required: true
+        - label: "I'm aware that this is a real issue."
           required: true
 
   - type: dropdown
     attributes:
-      label: Bug Type
-      description: What kind of bug is this?
+      label: Issue Type
+      description: What kind of issue is this.
       options:
-        - "UI Bug"
         - "Crash"
-        - "Performance"
+        - "Performance issues"
+        - "Unexpected behaviour"
+        - "Broken Features"
+        - "Other (Describe)"
       multiple: false
     validations:
       required: true
 
   - type: textarea
     attributes:
-      label: "Steps to Reproduce"
+      label: "# Steps to Reproduce"
       description: Describe step by step how to reproduce the bug
-      placeholder: "1. Do this\n2. Do that\n3. Bug happens"
+      placeholder: "N/A"
     validations:
       required: true
 
