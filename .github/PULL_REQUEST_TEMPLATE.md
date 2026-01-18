@@ -1,7 +1,4 @@
-# Pull Requesting.
-> [!IMPORTANT]
-> Your pull-request must be categorized as 1 type, in case of not being so, it will be automatically declined.
-
+# Pull Request
 ## Format
  ### Type
  <!-- A PR That patches a known issue. -->
