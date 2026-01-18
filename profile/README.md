@@ -6,7 +6,7 @@
 [Who are we]: https://github.com/JetTypes/.github/blob/main/assets/info/INFO.md
 
 <div align="center">
-  <img src="/assets/logos/file.svg" alt="Logo" width="400" height="300"/>
+  <img src="/assets/logos/file.svg" alt="Logo" width="700" height="400"/>
 </div>
 <!-- Logo -->
 
