@@ -4,7 +4,7 @@
 
 ## Format
  ### Type
- <!-- A PR That patches a knew issue. -->
+ <!-- A PR That patches a known issue. -->
   - [ ] Bug Patch
   <!-- A PR That adds the implementation of a new thing, such as a library, a new format.-->
   - [ ] Implementation
