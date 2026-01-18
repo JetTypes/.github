@@ -9,7 +9,7 @@
 <!-- Logo -->
 
 # **JetTypes**
-![Active](https://img.shields.io/badge/Status-active-brightgreen.svg) ![Repositories](https://img.shields.io/badge/Repositories-2-blue.svg)
+![Active](https://img.shields.io/badge/Status-active-brightgreen.svg) ![Repositories](https://img.shields.io/badge/Repositories-2-blue.svg) ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 Yes, we are a Github organisation. We've been in Github for 2 years! Before, we were at GitLabs. 
 
