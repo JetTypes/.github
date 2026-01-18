@@ -24,7 +24,7 @@ Looking to contribute? Take a look at [Contributing]. 💗
 
 ## Links
 
-> [!WARNING]
+> [!IMPORTANT]
 > These links above may be outdated or no longer in use. Check the official links pages first.
 
 - [Software]
