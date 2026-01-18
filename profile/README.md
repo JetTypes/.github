@@ -9,7 +9,7 @@
 
 # **JetTypes**
 
-Yes, we are a github.com organization. Our goal is to make libraries, utilities, and more within Github. The JetTypes project was made on 2021, although this organization was created January 9, 2026.
+Yes, we are a github organisation. Our goal is to make libraries, utilities, and more within Github. The JetTypes project was made on 2021, although this organization was created January 9, 2026.
 
 We're trying to build a developer community! 🚀
 
@@ -19,13 +19,13 @@ We are always accepting contributors in our projects, although we don't accept a
 
 ## Our Standards
 
-Before contribuiting, please make sure to take a look at all of the rules of each repository, following the mindset that each repository may have a different ruleset. You may like to take a look at our **training-kit** to learn about lots of things.
+Before contribuiting, please make sure to take a look at all of the rules of each repository, following the mindset that each repository may have a different ruleset. You may like to take a look at our **training-kit** for more details.
 
 ## Links
 
 > [!WARNING]
 > These links may be outdated
-> or not used anymore, we recommend you to always check other sources first.
+> or not used anymore, please check the official links pages first.
 
 - [Software]
 - [Compilers]
@@ -33,4 +33,4 @@ Before contribuiting, please make sure to take a look at all of the rules of eac
 - [Who are we]
 - [Licenses]
 
-<sub> Official JetTypes Organization. </sub>
+<sub> Official JetTypes Organisation. </sub>
