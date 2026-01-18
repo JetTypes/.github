@@ -8,17 +8,17 @@ We're trying to build a developer community. 🚀
 
 ## Join us
 
-We are always accepting contributors in our projects, although we don't accept all requests neither should you expect us to do so.
+We are always accepting contributors in our projects, although we don't accept all requests neither should you expect us to do so. To join us please see [Contributing](https://github.com/JetTypes/.github/blob/main/assets/info/CONTRIBUTE.md).
 
 ## Our Standards
 
 Before contribuiting, please make sure to take a look at all of the rules of each repository, following the mindset that each repository may have a different ruleset. Take a look at our **training-kit** to learn about lots of things.
 
 ## Links
+
 > [!WARNING]
 > These links may be outdated
-> or not used anymore, please
-> always check the src.
+> or not used anymore, we recommend you to always check other sources first.
 
 - [Software](https://github.com/orgs/JetTypes/repositories)
 - [Compilers](https://github.com/JetTypes/.github/blob/main/assets/info/COMPILERS.md)
