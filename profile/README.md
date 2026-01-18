@@ -5,7 +5,7 @@
 [Licenses]: https://github.com/JetTypes/.github/blob/main/assets/info/LICENSES.md
 
 
-<sub> ![logo](https://raw.githubusercontent.com/JetTypes/.github/main/assets/logos/file.svg)
+<sub> ![logo](https://raw.githubusercontent.com/JetTypes/.github/main/assets/logos/file.svg) </sub>
 
 # **JetTypes**
 
@@ -33,4 +33,4 @@ Before contribuiting, please make sure to take a look at all of the rules of eac
 - Who are we
 - [Licenses]
 
-<sub> Official JetTypes Repository.
+<sub> Official JetTypes Repository. </sub>
