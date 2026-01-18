@@ -1,0 +1,83 @@
+name: CodeCov CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: "3.11"
+    - name: Install Python deps
+      run: pip install -r requirements.txt pytest pytest-cov
+    - name: Run Python tests
+      run: pytest --cov=. --cov-report=xml
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: "20"
+    - name: Install JS deps
+      run: npm install
+    - name: Run JS tests
+      run: npx jest --coverage
+
+    - name: Install Lua
+      run: sudo apt-get install lua5.4 luajit -y
+    - name: Run Lua tests
+      run: luacov
+
+    - name: Install Luau
+      run: curl -LO https://github.com/Roblox/luau/releases/download/0.560/luau-linux.zip && unzip luau-linux.zip -d ./luau && chmod +x ./luau/luau
+    - name: Run Luau tests
+      run: ./luau/luau test
+
+    - name: Set up Java
+      uses: actions/setup-java@v3
+      with:
+        java-version: "17"
+    - name: Build & Test Java
+      run: ./gradlew test jacocoTestReport
+
+    - name: Install C/C++ tools
+      run: sudo apt-get install build-essential lcov -y
+    - name: Build C/C++ and run tests
+      run: mkdir -p build && cd build && cmake .. && make && ctest && lcov --capture --directory . --output-file coverage.info
+
+    - name: Set up Rust
+      uses: actions/setup-rust@v1
+      with:
+        rust-version: stable
+    - name: Run Rust tests
+      run: cargo test --all --verbose
+    - name: Generate Rust coverage
+      run: cargo tarpaulin --out Xml
+
+    - name: Set up Swift
+      uses: fwal/setup-swift@v1
+      with:
+        swift-version: "5.9"
+    - name: Run Swift tests
+      run: swift test --enable-code-coverage
+    - name: Generate Swift coverage
+      run: xcrun llvm-cov export -format=lcov ./build/debug/*.profdata > coverage-swift.info
+
+    - name: Upload coverage to Codecov
+      uses: codecov/codecov-action@v4
+      with:
+        files: |
+          coverage/lcov.info
+          coverage.xml
+          coverage-swift.info
+          coverage.info
+        flags: multi-language
+        fail_ci_if_error: true
