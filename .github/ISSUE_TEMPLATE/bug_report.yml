@@ -1,0 +1,54 @@
+name: Bug Report
+description: Use this template to report bugs in your project
+labels:
+  - "Type: Bug"
+body:
+  - type: markdown
+    attributes:
+      value: |-
+        Thank you for reporting a bug! Please fill out the template below carefully.
+
+  - type: checkboxes
+    attributes:
+      label: Confirmation
+      description: Please check before submitting
+      options:
+        - label: I checked for existing issues
+          required: true
+        - label: I’m using the latest version
+          required: true
+
+  - type: dropdown
+    attributes:
+      label: Bug Type
+      description: What kind of bug is this?
+      options:
+        - "UI Bug"
+        - "Crash"
+        - "Performance"
+      multiple: false
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: "Steps to Reproduce"
+      description: Describe step by step how to reproduce the bug
+      placeholder: "1. Do this\n2. Do that\n3. Bug happens"
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Expected Behaviour
+      description: What did you expect to happen?
+      placeholder: "The feature should..."
+    validations:
+      required: true
+
+  - type: input
+    id: "logs"
+    attributes:
+      label: "Console / Logs URL"
+      description: Paste a link to your logs (optional)
+      placeholder: "https://paste.example.com/logs"
