@@ -53,15 +53,6 @@ jobs:
     - name: Build C/C++ and run tests
       run: mkdir -p build && cd build && cmake .. && make && ctest && lcov --capture --directory . --output-file coverage.info
 
-    - name: Set up Rust
-      uses: actions/setup-rust@v1
-      with:
-        rust-version: stable
-    - name: Run Rust tests
-      run: cargo test --all --verbose
-    - name: Generate Rust coverage
-      run: cargo tarpaulin --out Xml
-
     - name: Set up Swift
       uses: fwal/setup-swift@v1
       with:

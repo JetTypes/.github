@@ -1,4 +1,3 @@
-[logo]: https://raw.githubusercontent.com/JetTypes/.github/main/assets/logos/file.svg
 [Contributing]: https://github.com/JetTypes/.github/blob/main/assets/info/CONTRIBUTE.md
 [Software]: https://github.com/orgs/JetTypes/repositories
 [Compilers]: https://github.com/JetTypes/.github/blob/main/assets/info/COMPILERS.md
@@ -6,7 +5,7 @@
 [Who are we]: https://github.com/JetTypes/.github/blob/main/assets/info/INFO.md
 
 <div align="center">
-  <img src="/assets/logos/file.svg" alt="Logo" width="700" height="400"/>
+  <img src="/assets/logos/file.svg" alt="Logo" width="400" height="300"/>
 </div>
 <!-- Logo -->
 
@@ -25,7 +24,6 @@ Before contributing, please make sure to take a look at all of the rules of each
 Looking to contribute? Take a look at [Contributing]. 💗
 
 ## Links
-
  - [Software]
  - [Compilers]
  - [Contributing]

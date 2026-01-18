@@ -1,5 +1,4 @@
 # Licenses
-| Languages | Name
 
 JetTypes uses MIT in most of its repositorys, for a free-to-use Software, to be distribuyed, commercially used.
 
