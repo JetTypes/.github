@@ -11,7 +11,7 @@
 <!-- Logo -->
 
 <div align="center">
-  <h1># **JetTypes Github**</h1>
+  <h1>JetTypes Github</h1>
 </div>
 
 Yes, we are a Github organisation. We've been in Github for 2 years! Before, we were at GitLabs. 
