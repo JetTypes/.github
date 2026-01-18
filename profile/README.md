@@ -28,7 +28,7 @@ Looking to contribute? Take a look at [Contributing]. 💗
 > These links above may be outdated, deleted or no longer in use. Check the official links pages first.
 >
 > - [Software]
-< - [Compilers]
+> - [Compilers]
 > - [Contributing]
 > - [Who are we]
 > - [Licenses]
