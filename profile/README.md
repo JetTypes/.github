@@ -9,7 +9,7 @@
 
 # **JetTypes**
 
-Yes, we are a github.com organization. Our goal is to make libraries, utilities, and more within Github. The JetTypes organization was made on 2021, although this organization was created January 9, 2026.
+Yes, we are a github.com organization. Our goal is to make libraries, utilities, and more within Github. The JetTypes project was made on 2021, although this organization was created January 9, 2026.
 
 We're trying to build a developer community! 🚀
 
